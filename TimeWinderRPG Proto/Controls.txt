@@ -1,0 +1,2 @@
+WASD to move
+Click on objects to interact with them
